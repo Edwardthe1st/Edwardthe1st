@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hello, I'm Edward 👋
 
-<!--
-**Edwardthe1st/Edwardthe1st** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Cybersecurity student at **EPITA**  
+💼 Currently in an **apprenticeship program**  
+🔐 Passionate about **cybersecurity, information systems, and development**
 
-Here are some ideas to get you started:
+## About Me
+I'm deeply interested in understanding how things work and to do them work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main areas of interest include:
+- Cybersecurity
+- Secure software development
+- Networks and systems
+- Linux and scripting
+- Web technologies
+
+## Skills
+### Programming Languages
+- C
+- C++
+- Python
+- Java
+
+### Web Development
+- HTML
+- CSS
+- React
+
+## Currently Learning
+- Advanced cybersecurity concepts
+- Forensics cocepts
+- Secure coding best practices
+- Network defense and system hardening
+- Modern web technologies
+- Real-world security challenges
+
+
+## Projects
+Here you will find projects related to:
+- Programming
+- Cybersecurity
+- Web development
+- Technical experiments and learning
+- App development
+
+
+Thanks for visiting my profile.
