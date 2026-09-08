@@ -1,7 +1,9 @@
-# Ruben Neves Carvalho
+# Hello, I'm Edward
 
-Cybersecurity student at **EPITA**, currently specialising in security governance.
-I spend most of my time on digital forensics, and I write tooling in Python to make investigation work faster.
+**Ruben Neves Carvalho** — cybersecurity student at **EPITA**, currently in an **apprenticeship program**.
+
+I'm deeply interested in understanding how things work, and in making them work.
+Right now that means digital forensics by day, and Python tooling to make investigation work faster.
 
 ---
 
@@ -15,12 +17,43 @@ Following a BSc in Cybersecurity at the same school.
 
 ---
 
-## Focus areas
+## About me
 
-- **Digital forensics** — disk image acquisition and integrity, file system analysis, forensic timelining, OSINT
-- **Security governance** — where I'm heading next: risk analysis, compliance, security policy
-- **Offensive security** — web penetration testing (OWASP Top 10), Active Directory, TCP/IP networking
-- **Tooling** — small Python utilities that turn a manual analysis step into a repeatable one
+My main areas of interest:
+
+- Cybersecurity and digital forensics
+- Secure software development
+- Networks and systems
+- Linux and scripting
+- Web technologies
+
+---
+
+## Skills
+
+### Programming languages
+`Python` · `C` · `C++` · `Java` · `Bash` · `PowerShell` · `JavaScript`
+
+### Web development
+`HTML` · `CSS` · `React`
+
+### Security and forensics
+`FTK Imager` · `Autopsy` · `Burp Suite` · `Wireshark` · `GNS3`
+Disk image acquisition and integrity, file system analysis, forensic timelining, OSINT, web penetration testing (OWASP Top 10), Active Directory, TCP/IP networking
+
+### Tools
+`Git` · `VS Code` · `Weka`
+
+---
+
+## Currently learning
+
+- Security governance: risk analysis, compliance, security policy
+- Advanced forensics concepts
+- Secure coding best practices
+- Network defense and system hardening
+- Modern web technologies
+- Real-world security challenges
 
 ---
 
@@ -35,10 +68,15 @@ Header construction and parsing, Echo Request/Reply handling, checksum computati
 
 ---
 
-## Tools and languages
+## Projects
 
-**Used in professional work** — Python, FTK Imager, Autopsy, Git
-**Used in academic and personal projects** — C, C++, Java, Bash, PowerShell, JavaScript, Burp Suite, Wireshark, GNS3, Weka
+Here you will find projects related to:
+
+- Programming
+- Cybersecurity
+- Web development
+- App development
+- Technical experiments and learning
 
 ---
 
@@ -51,3 +89,5 @@ French (native) · Portuguese (native) · English (C1, TOEIC 900/990)
 📍 Paris, France
 💼 [LinkedIn](https://www.linkedin.com/in/ruben-carvalho-527842340/)
 ✉️ rubenmnevescarvalhopro@gmail.com
+
+Thanks for visiting my profile.
